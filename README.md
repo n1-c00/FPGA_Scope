@@ -14,4 +14,4 @@ For using the scope there will be 2 possible ways
 ## Further Links
 - [CYC1000 Wiki](https://wiki.trenz-electronic.de/display/PD/TEI0003+Resources)
 - [LeFlow](https://github.com/danielholanda/LeFlow)
-- [DearPyGUI] (https://dearpygui.readthedocs.io/en/latest/)
+- [DearPyGUI](https://dearpygui.readthedocs.io/en/latest/)
