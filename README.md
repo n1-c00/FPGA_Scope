@@ -6,3 +6,8 @@ As stated, the main Chip/DevKit is the Cyclone 10 LP from Altera on the CYC1000.
 In addition to this there is the daugtherboard that connects the camera to the FPGA aswell as an HDMI-port.
 
 ## Software
+
+## Further Links
+- [CYC1000 Wiki](https://wiki.trenz-electronic.de/display/PD/TEI0003+Resources)
+- [LeFlow](https://github.com/danielholanda/LeFlow)
+
