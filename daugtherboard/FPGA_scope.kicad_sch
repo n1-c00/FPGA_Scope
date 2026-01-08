@@ -4215,6 +4215,16 @@
 		)
 		(uuid "114cfc62-41e0-4650-9d67-661ed67c8b7d")
 	)
+	(label "CAM_PCLK"
+		(at 101.6 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1a40bab5-9f13-4e50-ab28-aece6fdd050c")
+	)
 	(label "CAM_D4"
 		(at 101.6 82.55 0)
 		(effects
@@ -4375,6 +4385,16 @@
 		)
 		(uuid "7e9511e0-ea1d-4266-aab5-f2c3cc7fd53d")
 	)
+	(label "CAM_VSYNC"
+		(at 101.6 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d73354a-679f-4a64-9046-c6db7fcbf268")
+	)
 	(label "CAM_D6"
 		(at 101.6 87.63 0)
 		(effects
@@ -4474,6 +4494,16 @@
 			(justify left bottom)
 		)
 		(uuid "ef3af833-e5ad-4ce6-a146-98a97484006d")
+	)
+	(label "CAM_HSYNC"
+		(at 101.6 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f999c4ef-9b84-497f-8b4f-38935895c0b0")
 	)
 	(label "HDMI_Utility"
 		(at 203.2 91.44 0)
