@@ -1,6 +1,6 @@
-import dearpygui.dearpygui as gui
 import array
-import cv2 #only for testing
+import dearpygui.dearpygui as gui
+import cv2
 import numpy as np
 import serial
 import serial.tools.list_ports
